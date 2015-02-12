@@ -6,6 +6,7 @@ public class DisplayMessages {
 		DisplayAnotherMessage displayAnotherMessage = new DisplayAnotherMessage();
 		System.out.println("Hello from DisplayMessages class!");
 		displayAnotherMessage.displayAnotherMessage();
+		System.out.println("Last messagefrom DisplayMessages class!");
 	}
 
 }
